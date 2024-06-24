@@ -74,3 +74,10 @@ SSIM 越接近 1，LPIPS 越接近 0，表明模型效果越好。我们方法�
 韩东明(30%)：完成论文起草，引言、文献综述和结论部分的撰写；研究背景及研究现状的分析和探讨；扩散模型的相关资料搜集与整理。
 
 刘远(30%)：负责项目使用的具体方法，包括HDR扩散模型、FCG模型、滑动窗口噪声估计SWNE等技术的分析与学习，项目报告方法部分的撰写，项目视频文稿撰写。
+
+
+## Inspiration:
+
+* [Towards High-quality HDR Deghosting with Conditional Diffusion Models](https://arxiv.org/abs/2311.00932)
+* [Generative Diffusion Prior for Unified Image Restoration and Enhancement](https://arxiv.org/abs/2304.01247)
+* [Generating Content for HDR Deghosting from Frequency View](https://arxiv.org/abs/2404.00849)
